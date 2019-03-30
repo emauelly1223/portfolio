@@ -1,0 +1,66 @@
+#page-top {
+    background: url('../img/port3.jpg.jpeg') !important;
+    background-attachment: fixed !important;
+    background-size: cover !important;
+    background-position: center !important;
+  }
+
+.perfil{
+  border-radius: 50% !important;
+  width: 300px;
+  height: 300px;
+  padding: 25px;
+}
+    
+.logo{
+  width: 150px;
+  height: 150px;
+  padding: 10px;
+}
+
+.flex-page{
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.flexOne{
+  flex: 1;
+  width: 100vw;
+  align-content: center;
+}
+
+.paddingTop{
+  padding-top: 10vh;
+}
+
+.centerContact{
+  margin-left: 25.5vw;
+}
+
+.centerContact img{
+  width: 5vw;
+  height: 5vw;
+}
+
+.img-fluid1{
+  margin: 0;
+  width: 450px;
+  height: auto;
+  padding: 20px;
+  max-width: 100;
+}
+
+.img-fluid{
+  margin: 0;
+  width: 200;
+  height: 200;
+  padding: 20px;
+}
+
+.contato{
+  margin: 0;
+  width: 100px;
+  height: 100px;
+  padding: 10px;
+  vertical-align: center;
+}
